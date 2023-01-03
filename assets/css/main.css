@@ -33,6 +33,12 @@ body {
 	line-height: 1;
 }
 
+.logo{
+	
+	height:  2rem;
+	width: 2rem;
+}
+
 ol, ul {
 	list-style: none;
 }
@@ -2139,6 +2145,7 @@ input, select, textarea {
 
 			.image.avatar:before {
 				display: none;
+				text-align: center;
 			}
 
 			.image.avatar img {
